@@ -8,7 +8,7 @@
 }
 #login_box {
     width: 260px;     
-    background-color: pink;
+    background-color: rgb(192, 241, 255);
     border: 1px rgba(83, 83, 99, 0.856) solid;
     border-radius: 20px;
     padding-top: 30px;
