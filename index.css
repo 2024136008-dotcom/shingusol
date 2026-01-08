@@ -4,12 +4,12 @@
     align-items: center;    
     min-height: 100vh;
     /* height: 800px; */
-    background-color: gold;
+    background-color: #9AA9BE;
 }
 #login_box {
     width: 260px;     
     background-color: pink;
-    border: 1px blue solid;
+    border: 1px rgba(83, 83, 99, 0.856) solid;
     border-radius: 20px;
     padding-top: 30px;
     padding-bottom: 30px;
